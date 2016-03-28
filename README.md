@@ -1,2 +1,1 @@
-# censorify
-This is practice for learning Node.JS
+This is practice node.js project
